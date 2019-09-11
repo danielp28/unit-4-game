@@ -1,0 +1,40 @@
+.image{
+    height:90px;
+    width:90px;
+}
+
+#images{
+    border-style:solid;
+    border-width:2px;
+    float:right;
+    margin-right:10%;
+    margin-bottom:5%;
+    padding:5%;
+}
+
+#header{
+    background-color:lightblue;
+    padding:20px;
+    font-size:200%;
+}
+
+#display{
+    border-style:solid;
+    border-width:2px;
+    padding:2%;
+    width:200px;
+    height:200px;
+}
+#main-content{
+    margin:10%;
+}
+
+#score{
+    border-style:solid;
+    border-width:2px;
+    padding-bottom:8%;
+    padding-top:2%;
+    padding-right:12%;
+    float:left;
+    
+}
