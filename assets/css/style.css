@@ -6,6 +6,7 @@
     border-style:solid;
     border-width:2px;
     padding:2%;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 #images{
@@ -20,6 +21,7 @@
     background-color:lightblue;
     padding:20px;
     font-size:200%;
+    font-family: 'Gayathri', sans-serif;
 }
 
 #display{
@@ -30,6 +32,7 @@
     height:200px;
     float:left;
     margin-bottom:5%;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 #main-content{
     margin:10%;
@@ -43,6 +46,7 @@
     padding-right:12%;
     float:left;
     margin-left:5%;
+    font-family: 'Open Sans Condensed', sans-serif;
     
     
 }
